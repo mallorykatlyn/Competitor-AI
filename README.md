@@ -1,2 +1,2 @@
-# Competitor-AI
-CompetitorAI
+# Competitor-ai
+Competitorai
